@@ -1,0 +1,6 @@
+int PAGE_DRAWING();
+int PAGE_FILE_NOT_READ();
+int PAGE_FILE_READ();
+int PAGE_FILE();
+int PAGE_QUIT();
+int PAGE_WELCOME();

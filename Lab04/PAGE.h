@@ -1,0 +1,12 @@
+int PAGE_DRAWING();
+int PAGE_FILE_NOT_READ();
+int PAGE_FILE_READ();
+int PAGE_FILE();
+int PAGE_QUIT();
+int PAGE_WELCOME();
+int PAGE_CUSTOM_DRAWING_INPUT();
+int PAGE_CUSTOM_DRAWING_OUTPUT();
+int PAGE_SAVE_PROMPT();
+void redraw_canvas_from_shapes();
+int PAGE_SAVE_INPUT();
+void PAGE_LOAD_SELECT();
